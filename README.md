@@ -51,3 +51,8 @@ The provided Python script automates the process of logging into multiple Twitte
 ## Conclusion
 
 This script provides an example of parallelizing web automation tasks using Python's ThreadPoolExecutor. It demonstrates the integration of Selenium for browser automation and CSV handling for data input. Users should be cautious about responsible use, respecting platform policies, and ensuring the script's compliance with Twitter's terms of service. Additionally, the script could be extended for further customization and scalability.
+
+by,
+Nitish Khemka,CEO.
+BhanuChanudu,Devloper.
+Praveen Kumar,Devloper.
